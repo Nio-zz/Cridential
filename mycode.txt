@@ -1,0 +1,4 @@
+"AadClientId": "4617b192-4b70-400b-9fee-445f6345a1f5",
+"AadSecret": "LdM8Q~1Y50eJQNTTzHir4aXFoGgVlcrLxhQruc9K",
+"AadTenantDomain": "niozone.site",
+"AadTenantId": "e2405436-c877-4173-bd05-e663e78fa5b7",
